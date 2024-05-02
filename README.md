@@ -1,4 +1,5 @@
-Introduction
+Introduction:
+
 This Streamlit app is designed to predict visa acceptance based on input parameters using an XGBoost classifier. The app allows users to upload their dataset, preprocess the data, train the model, make predictions, and display the predicted visa status along with accuracy.
 
 
